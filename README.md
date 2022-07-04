@@ -2,25 +2,25 @@
 # What I have done
     分为总结类和项目类
 ## 总结类
-[算法题常用算法](https://github.com/chouring/data_structure-algorithm-math)
+[Common algorithms -算法题常用算法](https://github.com/chouring/data_structure-algorithm-math)
 
-[CS理论知识](https://github.com/chouring/cs-it-knowledge)
+[Some basic theroy and princple about CS -CS理论知识](https://github.com/chouring/cs-it-knowledge)
 ## 项目类
 ### 组件(轮子)
-[内存池](https://github.com/chouring/k-mempool)
+[memory pool -内存池](https://github.com/chouring/k-mempool)
 
-[线程池](https://github.com/chouring/k-threadpool)
+[thread pool -线程池](https://github.com/chouring/k-threadpool)
 
-[数据库连接池]()
+[mysql link pool -数据库连接池]()
 
-[异步请求池]()
+[ansy-request pool -异步请求池]()
 
-[消息队列](https://github.com/chouring/k-mq)
+[message queue -消息队列](https://github.com/chouring/k-mq)
 
-[RPC框架](https://github.com/chouring/k-rpc)
+[rpc framework -RPC框架](https://github.com/chouring/k-rpc)
 ### 中间件型软件
-[Web服务器](https://github.com/chouring/k-webserver)
+[Web server](https://github.com/chouring/k-webserver)
 
-[类redis的key-value内存数据库]()
+[key-value memory db like redis -类redis的key-value内存数据库]()
 ### 应用层软件
-[聊天软件](https://github.com/chouring/Kchat)
+[let's chat -聊天软件](https://github.com/chouring/Kchat)
