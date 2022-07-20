@@ -6,6 +6,9 @@
 
 [Some basic theroy and princple about CS -CS理论知识](https://github.com/chouring/cs-it-knowledge)
 ## 项目类
+### 应用层软件
+[let's chat -聊天软件](https://github.com/chouring/Kchat)
+
 ### 组件(轮子)
 [memory pool -内存池](https://github.com/chouring/k-mempool)
 
@@ -18,11 +21,14 @@
 [message queue -消息队列](https://github.com/chouring/k-mq)
 
 [rpc framework -RPC框架](https://github.com/chouring/k-rpc)
+
+### 系统软件
+[OS](https://github.com/chouring/kos)
+
 ### 中间件型软件
 [Web server](https://github.com/chouring/k-webserver)
 
 [UDP server](https://github.com/chouring/k-udp-server)
 
 [key-value memory db like redis -类redis的key-value内存数据库]()
-### 应用层软件
-[let's chat -聊天软件](https://github.com/chouring/Kchat)
+
